@@ -1,0 +1,12 @@
+name: DipSnipe
+title: DipSnipe
+username: archiehehe
+account: archiehehe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16402853
+bundleId: 11428202
+url: https://archiehehe.shinyapps.io/DipSnipe/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

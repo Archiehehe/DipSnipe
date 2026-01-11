@@ -1,0 +1,9 @@
+database:
+  file: "diphunter.db"
+
+apis:
+  yahoo:
+    rate_limit_per_minute: 60
+
+universe:
+  min_market_cap: 0
