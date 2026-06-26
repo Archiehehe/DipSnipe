@@ -714,6 +714,7 @@ ui <- dashboardPage(
   
   dashboardBody(
     tags$head(
+      tags$link(rel = "icon", type = "image/svg+xml", href = "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect x='1' y='1' width='30' height='30' rx='6' fill='rgb(26,26,26)' stroke='rgb(239,68,68)' stroke-width='2.5'/><text x='16' y='23' text-anchor='middle' fill='rgb(239,68,68)' font-size='17' font-weight='bold' font-family='-apple-system,sans-serif'>D</text></svg>"),
       tags$style(HTML("
         .content-wrapper { background-color: #ecf0f1; }
         .box { border-top: 3px solid #dd4b39; }
